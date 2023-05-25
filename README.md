@@ -27,7 +27,7 @@ The autotrade script in MetaTrader 4 provides traders with the ability to automa
 3. `Bollinger Bands`: The script calculates Bollinger Bands based on user-defined parameters. The position of the price in relation to the bands is considered as an additional confirmation for entering or exiting trades.
 
 ## Input Parameters
-- The script provides the following input parameters that can be customized:
+The script provides the following input parameters that can be customized:
 - `EMASlowPeriod`: The period for the slow Exponential Moving Average (default: 50).
 - `EMAFastPeriod`: The period for the fast Exponential Moving Average (default: 10).
 - `RSIPeriod`: The period for the Relative Strength Index (default: 14).
