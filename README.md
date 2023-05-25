@@ -10,7 +10,8 @@ The script can be customized to accommodate various trading strategies, includin
 The autotrade script in MetaTrader 4 provides traders with the ability to automate their trading activities, reduce emotional biases, and take advantage of market opportunities without the need for constant manual monitoring. It can be a valuable tool for both novice and experienced traders looking to optimize their trading processes and improve overall trading performance.
 
 ## Usage
-```1. Install MetaTrader 4 platform on your computer.
+```
+1. Install MetaTrader 4 platform on your computer.
 2. Open MetaEditor within MetaTrader 4.
 3. Create a new Expert Advisor (EA) and paste the contents of the autotrade.mq4 script into it.
 4. Adjust the input parameters according to your preferences.
