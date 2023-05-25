@@ -1,0 +1,13 @@
+# FUNDING.yml
+
+# Define funding sources for your project
+
+# GitHub Sponsors
+github: thomasngu0423
+
+# Custom funding links
+custom:
+  - type: paypal
+    url: https://paypal.me/thomasngu0423?country.x=MY&locale.x=en_US
+
+
