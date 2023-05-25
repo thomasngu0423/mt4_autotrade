@@ -28,15 +28,15 @@ The autotrade script in MetaTrader 4 provides traders with the ability to automa
 
 ## Input Parameters
 - The script provides the following input parameters that can be customized:
-- EMASlowPeriod: The period for the slow Exponential Moving Average (default: 50).
-- EMAFastPeriod: The period for the fast Exponential Moving Average (default: 10).
-- RSIPeriod: The period for the Relative Strength Index (default: 14).
-- RSIBuyLevel: The RSI level for generating buy signals (default: 50).
-- RSISellLevel: The RSI level for generating sell signals (default: 50).
-- LotSize: The size of the trading lot (default: 0.01).
-- StopLossPips: The number of pips for the stop-loss level (default: 200).
-- TakeProfitPips: The number of pips for the take-profit level (default: 100).
-- MagicNumber: A unique identifier for the orders placed by the EA (default: 1234).
+- `EMASlowPeriod`: The period for the slow Exponential Moving Average (default: 50).
+- `EMAFastPeriod`: The period for the fast Exponential Moving Average (default: 10).
+- `RSIPeriod`: The period for the Relative Strength Index (default: 14).
+- `RSIBuyLevel`: The RSI level for generating buy signals (default: 50).
+- `RSISellLevel`: The RSI level for generating sell signals (default: 50).
+- `LotSize`: The size of the trading lot (default: 0.01).
+- `StopLossPips`: The number of pips for the stop-loss level (default: 200).
+- `TakeProfitPips`: The number of pips for the take-profit level (default: 100).
+- `MagicNumber`: A unique identifier for the orders placed by the EA (default: 1234).
 
 **Note:** 
 - `It is important to thoroughly test and optimize the script on a demo account before using it with real funds.`
