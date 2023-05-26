@@ -1,7 +1,2 @@
-# FUNDING.yml
-
-custom:
-  - type: paypal
-    url: https://paypal.me/thomasngu0423?country.x=MY&locale.x=en_US
-
+custom: ['https://paypal.me/thomasngu0423?country.x=MY&locale.x=en_US']
 
