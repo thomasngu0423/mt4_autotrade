@@ -10,7 +10,6 @@ The script can be customized to accommodate various trading strategies, includin
 The autotrade script in MetaTrader 4 provides traders with the ability to automate their trading activities, reduce emotional biases, and take advantage of market opportunities without the need for constant manual monitoring. It can be a valuable tool for both novice and experienced traders looking to optimize their trading processes and improve overall trading performance.
 
 ## Usage
-```
 1. Install MetaTrader 4 platform on your computer.
 2. Open MetaEditor within MetaTrader 4.
 3. Create a new Expert Advisor (EA) and paste the contents of the autotrade.mq4 script into it.
@@ -19,7 +18,7 @@ The autotrade script in MetaTrader 4 provides traders with the ability to automa
 6. Attach the EA to a chart of the desired symbol and timeframe in MT4.
 7. Enable automated trading and allow the EA to generate trade signals.
 8. Monitor the EA's performance and adjust the parameters if necessary.
-```
+
 
 ## Strategies and Indicators
 1. `Exponential Moving Averages (EMA)`: The script calculates two EMAs - a slow EMA and a fast EMA - based on user-defined periods. The crossing of these EMAs is used as a signal for entering or exiting trades.
